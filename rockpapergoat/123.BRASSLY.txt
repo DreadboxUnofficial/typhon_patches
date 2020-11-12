@@ -1,0 +1,547 @@
+id: 123
+name: "BRASSLY"
+vca_eg {
+  input_time: 0
+  input_attack: 0
+  input_decay: 0
+  input_sustain: 1
+  input_release: 0.356862754
+}
+vcf_eg {
+  input_time: 0.65882355
+  input_attack: 0
+  input_decay: 0.149019614
+  input_sustain: 0
+  input_release: 0.152941182
+}
+modulator1 {
+  input_envelope_attack: 0
+  input_envelope_decay_release: 0.0941176564
+  input_envelope_sustain: 0
+  input_lfo_rate: 0.498039246
+  input_lfo_wave: 0
+  input_lfo_fade: 0.490196109
+  input_random_rate: 0.494117677
+  input_random_lag: 0
+  input_random_prob: 1
+  input_step_sequencer_step_count: 0.117647067
+  input_step_sequencer_step: 1
+  input_step_sequencer_level: 1
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0.297463924
+  step_sequencer_levels: 0.598895252
+  step_sequencer_levels: 1
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  destination_levels {
+    vco_level: 0.608294904
+    vco1_level: 0.388531148
+    vco2_level: 0.608294904
+    wave_level: 0.26294747
+    cut_level: 0.551805198
+    res_level: 0.363414407
+    eg_level: 0.382244319
+    vca_level: 0.482711256
+    fx1_level: 0.499984741
+    ffm_level: 0.499984741
+    fx2_level: 0.499984741
+    delay_level: 0.499984741
+    fx3_level: 0.499984741
+  }
+  mode: envelope
+  sync_type: free_run
+}
+modulator2 {
+  input_envelope_attack: 0
+  input_envelope_decay_release: 0.101960793
+  input_envelope_sustain: 0
+  input_lfo_rate: 0.494117677
+  input_lfo_wave: 0
+  input_lfo_fade: 0.513725519
+  input_random_rate: 0.498039246
+  input_random_lag: 0
+  input_random_prob: 1
+  input_step_sequencer_step_count: 0.101960793
+  input_step_sequencer_step: 0
+  input_step_sequencer_level: 0.301960796
+  step_sequencer_levels: 0.303750724
+  step_sequencer_levels: 0.303750724
+  step_sequencer_levels: 0.595751822
+  step_sequencer_levels: 1
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  destination_levels {
+    vco_level: 0.445051432
+    vco1_level: 0.539231539
+    vco2_level: 0.545518339
+    wave_level: 0.488998085
+    cut_level: 0.344553977
+    res_level: 0.272347182
+    eg_level: 0.7307657
+    vca_level: 0.499984741
+    fx1_level: 0.499984741
+    ffm_level: 0.699362159
+    fx2_level: 0.499984741
+    delay_level: 0.499984741
+    fx3_level: 0.499984741
+  }
+  mode: envelope
+  sync_type: free_run
+}
+modulator3 {
+  input_envelope_attack: 0
+  input_envelope_decay_release: 0.101960793
+  input_envelope_sustain: 0
+  input_lfo_rate: 0.498039246
+  input_lfo_wave: 0.788235366
+  input_lfo_fade: 0.494117677
+  input_random_rate: 0.494117677
+  input_random_lag: 0
+  input_random_prob: 1
+  input_step_sequencer_step_count: 0.105882362
+  input_step_sequencer_step: 0
+  input_step_sequencer_level: 0.298039228
+  step_sequencer_levels: 0.300607324
+  step_sequencer_levels: 0.300607324
+  step_sequencer_levels: 0.602038622
+  step_sequencer_levels: 1
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  step_sequencer_levels: 0
+  destination_levels {
+    vco_level: 0.499984741
+    vco1_level: 0.499984741
+    vco2_level: 0.499984741
+    wave_level: 0.499984741
+    cut_level: 0.7244789
+    res_level: 0.140476704
+    eg_level: 0.633411646
+    vca_level: 0.499984741
+    fx1_level: 0.617725134
+    ffm_level: 0.499984741
+    fx2_level: 0.499984741
+    delay_level: 0.499984741
+    fx3_level: 0.499984741
+  }
+  mode: envelope
+  sync_type: free_run
+}
+velocity {
+  destination_levels {
+    vco_level: 0
+    vco1_level: 0
+    vco2_level: 0
+    wave_level: 0
+    cut_level: 0
+    res_level: 0
+    eg_level: 0
+    vca_level: 0
+    fx1_level: 0
+    ffm_level: 0
+    fx2_level: 0
+    delay_level: 0
+    fx3_level: 0
+  }
+}
+aftertouch {
+  destination_levels {
+    vco_level: 0
+    vco1_level: 0
+    vco2_level: 0
+    wave_level: 0
+    cut_level: 0
+    res_level: 0
+    eg_level: 0
+    vca_level: 0
+    fx1_level: 0
+    ffm_level: 0
+    fx2_level: 0
+    delay_level: 0
+    fx3_level: 0
+  }
+}
+key_track {
+  destination_levels {
+    wave_level: 0
+    cut_level: 0
+    res_level: 0
+    eg_level: 0
+    fx1_level: 0
+    ffm_level: 0
+    fx2_level: 0
+    delay_level: 0
+    fx3_level: 0
+  }
+}
+cc2 {
+  destination_levels {
+    vco_level: 0
+    vco1_level: 0
+    vco2_level: 0
+    wave_level: 0
+    cut_level: 0
+    res_level: 0
+    eg_level: 0
+    vca_level: 0
+    fx1_level: 0
+    ffm_level: 0
+    fx2_level: 0
+    delay_level: 0
+    fx3_level: 0
+  }
+}
+fx1 {
+  type: distortion
+  distortion_type: binary_shred
+  input_distortions_gain: 0.494117677
+  input_distortions_level: 1
+  input_decimator_rate: 0
+  input_decimator_bit: 0
+  input_mix: 0.321568638
+  input_cut: 0
+  input_res: 0
+}
+fx2 {
+  input_chorus_depth: 0.200000018
+  input_chorus_speed: 0.596078455
+  input_chorus_width: 0.301960796
+  input_chorus_feedback: 0.400000036
+  input_ensm_depth: 0.596078455
+  input_ensm_speed: 0.301960796
+  input_ensm_width: 0.200000018
+  input_ensm_feedback: 0.501960814
+  input_flanger_depth: 0.698039234
+  input_flanger_speed: 0.200000018
+  input_flanger_width: 0.298039228
+  input_flanger_feedback: 0.188235313
+  input_mix: 0.298039228
+  type: ensemble
+  input_phaser_speed: 0.498039246
+  input_phaser_width: 0.498039246
+  input_phaser_feedback: 1
+  input_pitch_shifter_left_semitones: 0.698039234
+  input_pitch_shifter_right_semitones: 0.698039234
+  input_pitch_shifter_damp: 0.498039246
+  input_pitch_shifter_feedback: 0.498039246
+}
+fx3 {
+  input_delay_left_time: 0.498039246
+  input_delay_right_time: 0.549019635
+  input_delay_feed: 0.400000036
+  input_ping_pong_time: 0.494117677
+  input_ping_pong_feed: 0.298039228
+  input_heavy_reverb_pre: 0.0941176564
+  input_heavy_reverb_size: 0.647058845
+  input_heavy_reverb_feed: 0.501960814
+  input_mix: 0.200000018
+  type: heavy_reverb
+  sync_type: free
+  input_light_reverb_pre: 0
+  input_light_reverb_size: 0.498039246
+  input_light_reverb_feed: 0.400000036
+  input_delay_damp: 0.517647088
+  input_ping_pong_damp: 0.517647088
+  input_heavy_reverb_damp: 0.56078434
+  input_light_reverb_damp: 0.498039246
+  input_cloud_reverb_tune: 0
+  input_cloud_reverb_size: 0.498039246
+  input_cloud_reverb_feed: 0.498039246
+  input_cloud_reverb_grains: 0.698039234
+}
+sequencer {
+  input_divisions: 0.419607878
+  input_probability: 1
+  input_swing: 0
+  bpm: 120
+  input_octave: 0
+  input_semitone: 0
+  input_gate: 0.498039246
+  input_velocity: 0
+  note_settings {
+    gate: 0.498428285
+    velocity: 0
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0
+    octave_index: 1
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0
+    octave_index: 3
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0
+    octave_index: 4
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  note_settings {
+    gate: 0.499984741
+    velocity: 0.499984741
+    octave_index: 0
+    semitone_index: 0
+  }
+  step_count: 4
+}
+settings {
+  input_glide: 0.13333334
+  input_filter_key_track: 0
+  input_vco_levels: 1
+  input_ffm: 0
+  input_vca_level: 1
+}
+vcos {
+  input_resonance: 0
+  input_waveform: 1
+  input_offset: 0
+}
+vcf {
+  input_cutoff: 1
+  input_envelope_level: 0
+}
+legato: false
